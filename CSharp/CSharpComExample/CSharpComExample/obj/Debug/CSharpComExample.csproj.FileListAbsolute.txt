@@ -1,0 +1,18 @@
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\bin\Debug\CSharpComExample.exe.config
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\bin\Debug\CSharpComExample.exe
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\bin\Debug\CSharpComExample.pdb
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.Form1.resources
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.Properties.Resources.resources
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.csproj.GenerateResource.Cache
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.exe
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.pdb
+D:\ChungLiang\Projects\DGM for IMM\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\bin\Debug\CSharpComExample.exe.config
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\bin\Debug\CSharpComExample.exe
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\bin\Debug\CSharpComExample.pdb
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.Form1.resources
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.Properties.Resources.resources
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.csproj.GenerateResource.Cache
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.exe
+D:\Jabil\00__Project\_CHA\16-Development of DGM TypeD - IMM IoT (SWC TypeA)\CSharp\CSharpComExample\CSharpComExample\obj\Debug\CSharpComExample.pdb

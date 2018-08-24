@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1496738430 source:/home/pi/Public/SWC/SWC/action.cpp
+	<stdio.h>
+	"Global.h"
+	"Definition.h"
+	"action.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+
+1496671214 /home/pi/Public/SWC/SWC/Global.h
+	"Definition.h"
+
+1496671537 /home/pi/Public/SWC/SWC/Definition.h
+	<string.h>
+	<string>
+
+1493358592 /home/pi/Public/SWC/SWC/action.h
+	"Definition.h"
+
+1496200790 source:/home/pi/Public/SWC/SWC/Communication.cpp
+	<stdio.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<linux/i2c.h>
+	<linux/i2c-dev.h>
+	<string>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	"Global.h"
+	"Definition.h"
+	"Communication.h"
+
+1496721368 source:/home/pi/Public/SWC/SWC/DataCapture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<cerrno>
+	<unistd.h>
+	"DataCapture.h"
+	"Communication.h"
+
+1496375887 /home/pi/Public/SWC/SWC/DataCapture.h
+	<pthread.h>
+	"Definition.h"
+	"Global.h"
+
+1496644200 /home/pi/Public/SWC/SWC/Communication.h
+
+1496721179 source:/home/pi/Public/SWC/SWC/Global.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Global.h"
+	"Definition.h"
+
+1496716769 source:/home/pi/Public/SWC/SWC/interpreter.cpp
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Global.h"
+	"Definition.h"
+
+1496224401 source:/home/pi/Public/SWC/SWC/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<error.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+	<pthread.h>
+	"interpreter.h"
+	"Global.h"
+	"action.h"
+	"DataCapture.h"
+	"Communication.h"
+	"ProcessControl.h"
+
+1495780230 /home/pi/Public/SWC/SWC/interpreter.h
+	"Definition.h"
+
+1495780231 source:/home/pi/Public/SWC/SWC/reply.cpp
+	"reply.h"
+
+1494205438 /home/pi/Public/SWC/SWC/reply.h
+
+1495780332 /home/pi/Public/SWC/SWC/ProcessControl.h
+	<pthread.h>
+	"Definition.h"
+	"Global.h"
+
+1496719333 source:/home/pi/Public/SWC/SWC/ProcessControl.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<cerrno>
+	<unistd.h>
+	"ProcessControl.h"
+
